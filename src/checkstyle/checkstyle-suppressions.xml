@@ -73,4 +73,6 @@
 	<suppress files="sockjs[\\/]frame[\\/]SockJsFrameType" checks="JavadocVariable" />
 	<suppress files="sockjs[\\/]transport[\\/]TransportType" checks="JavadocVariable" />
 
+	<!-- 配置不检查com.idea.spring包下的所有文件 -->
+	<suppress files="[\\/]src[\\/]main[\\/]java[\\/]com[\\/]idea[\\/]spring[\\/]" checks="" />
 </suppressions>
