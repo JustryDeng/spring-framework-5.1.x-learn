@@ -1,17 +1,17 @@
-package com.idea.spring;
+package com.idea.spring.ext.aop;
 
-import com.idea.spring.author.JustryDeng;
-import com.idea.spring.config.MyConfig;
-import com.idea.spring.model.A;
+
+import com.idea.spring.base.config.MyConfig;
+import com.idea.spring.base.model.A;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 /**
  * (non-javadoc)
  *
- * @author {@link JustryDeng}
+ * @author JustryDeng
  * @since 2020/7/18 14:28:20
  */
-public class MainTest {
+public class JdSpringApplication {
 	
 	public static void main(String[] args) {
 		AnnotationConfigApplicationContext annotationConfigApplicationContext

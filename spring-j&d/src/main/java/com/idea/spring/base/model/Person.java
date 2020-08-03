@@ -1,6 +1,6 @@
-package com.idea.spring.model;
+package com.idea.spring.base.model;
 
-import com.idea.spring.author.JustryDeng;
+import com.idea.spring.base.author.JustryDeng;
 
 /**
  * (non-javadoc)

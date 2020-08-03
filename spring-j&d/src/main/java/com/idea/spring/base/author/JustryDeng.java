@@ -1,4 +1,4 @@
-package com.idea.spring.author;
+package com.idea.spring.base.author;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

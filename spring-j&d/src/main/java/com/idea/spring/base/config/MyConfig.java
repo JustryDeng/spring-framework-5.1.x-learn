@@ -1,7 +1,7 @@
-package com.idea.spring.config;
+package com.idea.spring.base.config;
 
-import com.idea.spring.author.JustryDeng;
-import com.idea.spring.model.Person;
+import com.idea.spring.base.author.JustryDeng;
+import com.idea.spring.base.model.Person;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
